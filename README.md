@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **lxndr@lxndr.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
