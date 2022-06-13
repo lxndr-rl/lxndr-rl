@@ -4,6 +4,7 @@
 - 📖 Student.
 - How to reach me:
   - Discord: <a href="https://discordapp.com/users/306445396258062337" target="_blank">𝓵𝔁𝓷𝓭𝓻#0422</a>
+  - E-mail: lxndr@lxndr.dev
 
 
 <h3 align="left">Languages and Tools:</h3>
