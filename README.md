@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 
-- 🌱 I’m currently learning **GraphQL** and **GO**.
+- 🌱 I am currently working on **personal projects**.
 - 📖 Student.
 - How to reach me:
-  - Discord: <a href="https://discordapp.com/users/306445396258062337" target="_blank">lxndr#0836</a>
+  - Discord: <a href="https://discordapp.com/users/306445396258062337" target="_blank">lxndrrl</a>
   - E-mail: lxndr@lxndr.dev
 
 
